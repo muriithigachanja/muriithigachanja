@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on **some flutter project**
+<span align="center">- 🔭 I’m currently working on **some flutter project**
 
 - 💬 Ask me about **flutter, react, vue, laravel**
 
-- 📫 How to reach me **kmgachanja@gmail.com**
+- 📫 How to reach me **kmgachanja@gmail.com**</span>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
